@@ -1,0 +1,9 @@
+*.class
+*.jar
+*.png
+*.jpg
+*.classpath
+*.idea/
+*.iml
+.project
+
